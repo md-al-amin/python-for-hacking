@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scapy
+geoip2
+collections
+codecs
+socket
