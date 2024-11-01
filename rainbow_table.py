@@ -8,7 +8,7 @@ Rainbow Table program
 import hashlib
 
 # Define the character set
-charset = 'abcde8'
+charset = 'abc123'
 
 # Define the password length
 password_length = int(input("Please Enter the length of password :  "))
